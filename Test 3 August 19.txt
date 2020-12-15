@@ -1,0 +1,20 @@
+Total time - 3 hours
+Total marks - 100
+Please use the data set for Medical schools. 
+
+Data Engineering - 50 marks
+
+Q1) What percentage of medical schools admit between 51 and 60 percent of students? 
+Q2) For how many schools is the 75th percentile ACT score more than 27? 
+Q3) State the IDs of the top 5 and worst 5 schools. 
+Q4) What is the average percentage of White students enrolled in the 10 schools with the highest percentage of women enrolled? 
+Q5) What is the percentage chance of a women white student with a ACT composite score of 30 of getting admitted into the school with ID 226471? 
+Q6) Reduce this set to 20 cheapest schools which meet the following criteria -
+1) SCORE is in the top 25%
+2) Percentage of women enrolled is more than 40%
+
+
+Data Visualization 
+Please create a Dashboard(s) using Tableau or PowerBI. Use the given original dataset for this purpose. 
+
+On completion of 3 hours, please email the Python / R files and the PBIX / TWBX files to Rashmi. In case you are using Tableau Public, please publish the dashboard and share the link with Rashmi. 

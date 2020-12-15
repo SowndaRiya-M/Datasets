@@ -1,0 +1,42 @@
+Seed ID,Seed Type,Seed,Spacing,Seeds/Pound,Quantity(Pounds),Lifecycle,Temperature
+P1001,Fruit,Apple,12,2300,404,Perennial,40-50
+P1002,Fruit,Apricots,3,8500,279,Perennial,40-51
+P1003,Fruit,Avocado,18,5,450,Perennial,60-85
+P1004,Vegetable,Artichoke,24,9856,696,Perennial,60-70
+P1005,Vegetable,Asparagus,18,15200,42,Perennial,70-85
+A1006,Vegetable,Beet,4,19200,709,Annual,50-85
+P1007,Fruit,Blueberries,36,11000,782,Perennial,60-70
+A1008,Vegetable,Bok Choy,12,110000,304,Annual,40-75
+P1009,Vegetable,Broccoli,3,120000,690,Perennial,50-60
+A1010,Vegetable,Brussel Sprout,3,104000,23,Annual,45-85
+A1011,Vegetable,Cabbage,12,110000,88,Annual,45-95
+A1012,Fruit,Cantaloupe,18,14500,248,Annual,65-90
+A1013,Vegetable,Carrot,2,20000,512,Annual,55-75
+A1014,Vegetable,Cauliflower,18,97300,552,Annual,45-85
+A1015,Vegetable,Celery,36,1000000,615,Annual,60-70
+P1016,Fruit,Cherry,6,11000,642,Perennial,35-50
+A1017,Legume,Chickpeas,24,1600,527,Annual,70-80
+A1018,Vegetable,Corn,6,2550,67,Annual,50-70
+A1019,Vegetable,Cucumber,12,16000,727,Annual,60-95
+A1021,Vegetable,Eggplant,18,100000,197,Annual,75-90
+P1023,Vegetable,Garlic,6,8000,55,Perennial,50-85
+A1024,Fruit,Grape,36,11000,453,Annual,60-70
+A1025,Legume,Green Bean,2,1100,37,Annual,65-85
+A1026,Fruit,Honeydew,18,20000,639,Annual,75-95
+A1027,Legume,Kidney Bean,2,1100,118,Annual,70-80
+A1030,Legume,Lima Bean,2,400,793,Annual,65-80
+A1033,Vegetable,Okra,18,8700,799,Annual,65-75
+P1035,Vegetable,Onion,18,120000,622,Perennial,50-95
+A1037,Nut,Peanut,24,320,605,Annual,65-70
+A1040,Vegetable,Peas,18,2000,764,Annual,55-70
+A1041,Vegetable,Pepper,18,65000,370,Annual,65-95
+A1044,Vegetable,Potato,12,5,33,Annual,65-70
+A1045,Vegetable,Radish,18,50000,460,Annual,55-75
+A1046,Vegetable,Rutabaga,6,220000,275,Annual,40-60
+P1047,Vegetable,Spinach,2,313000,675,Perennial,70-95
+A1048,Vegetable,Squash,36,1700,770,Annual,70-90
+A1049,Fruit,Strawberry,36,11000,800,Annual,40-60
+A1050,Vegetable,Tomato,36,152000,83,Annual,70-95
+A1051,Vegetable,Turnip,4,270000,432,Annual,45-85
+A1052,Fruit,Watermelon,36,11000,113,Annual,65-95
+P1053,Vegetable,Yam,12,5,437,Perennial,65-95
